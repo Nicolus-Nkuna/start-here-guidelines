@@ -92,7 +92,7 @@ Spending years on one open source project means you’ve gotten to know _one_ op
 
 That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
-A typical open source project has the following types of people:
+A typical open source project has the following types of people: 
 
 **Author**: The person/s or organization that created the project.
 
